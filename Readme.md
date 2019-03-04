@@ -1,0 +1,1 @@
+The package contains two folders as of now. One folder includes the model and the other model includes the image filters.
